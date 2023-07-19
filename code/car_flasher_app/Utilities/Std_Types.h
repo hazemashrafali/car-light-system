@@ -9,15 +9,11 @@
 #define UTILITIES_STD_TYPES_H_
 
 /* Boolean Data Type */
-typedef unsigned char boolean;
+#define F_CPU 8000000UL
+
+typedef enum {FALSE,TRUE}	BOOLEAN;
 
 /* Boolean Values */
-#ifndef FALSE
-#define FALSE       (0u)
-#endif
-#ifndef TRUE
-#define TRUE        (1u)
-#endif
 
 #define LOGIC_HIGH        (1u)
 #define LOGIC_LOW         (0u)

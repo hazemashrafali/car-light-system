@@ -1,12 +1,18 @@
 /*
- * main.c
+ * car_flasher.c
  *
- *  Created on: Jul 15, 2023
- *      Author: HAZEM-PC
- */
+ * Created: 2023-07-17 4:44:50 AM
+ * Author : HAZEM-PC
+ */ 
 
+#include "APP\app.h"
 
-// this is hazem
-//hello world
-//new code
-//mostafa new 16/7
+int main(void)
+{
+	app_init();	
+	
+	app_start();
+	
+	return 0;
+}
+
