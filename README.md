@@ -8,5 +8,8 @@
 ### **2.Application State Flow**
 ![car flashing diagram drawio](https://github.com/hazemashrafali/car_flasher/assets/102700625/8555b9bb-00c9-485b-adc2-8b4bfe4be444)
 
-### **3. Quick Links**
+### **3.Layer Architecture**
+![car flashing diagram drawio](https://github.com/hazemashrafali/car-light-system/assets/102700625/ccc0518a-48a6-4126-af42-10b7124c65f4)
+
+### **4. Quick Links**
 - [HEX file](https://github.com/hazemashrafali/car-light-system/blob/hazem/HEX%20file/car_flasher.hex)
