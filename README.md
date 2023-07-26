@@ -11,5 +11,8 @@
 ### **3.Layer Architecture**
 ![car flashing diagram drawio](https://github.com/hazemashrafali/car-light-system/assets/102700625/ccc0518a-48a6-4126-af42-10b7124c65f4)
 
-### **4. Quick Links**
+### **4.car flasher schematic diagram**
+![car flasher schematic](https://github.com/hazemashrafali/car-light-system/assets/102700625/4b1d887d-8824-4f5b-b872-db6ad5c265b3)
+
+### **5. Quick Links**
 - [HEX file](https://github.com/hazemashrafali/car-light-system/blob/hazem/HEX%20file/car_flasher.hex)
