@@ -16,3 +16,4 @@
 
 ### **5. Quick Links**
 - [HEX file](https://github.com/hazemashrafali/car-light-system/blob/hazem/HEX%20file/car_flasher.hex)
+- [protues file](https://github.com/hazemashrafali/car-light-system/blob/31546a1cb967cd094afc96e12eedddd510f193ff/simulation/car%20flasher%20simulation.pdsprj)
