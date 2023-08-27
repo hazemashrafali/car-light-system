@@ -1,6 +1,6 @@
 # Car Light Flasher
-> ## **in this project It is required to write program to simulate the car signal lights usign C programming and Atmega32 MCU**
 
+> ## **in this project It is required to write simple car light signal application used to simulate the Car With Turn Signal Switch usign Embedded C programming and Atmega32 MCU**
 
 ### **1.Hardware Components**
 ![car flashing diagram drawio (1)](https://github.com/hazemashrafali/car_flasher/assets/102700625/71e83a5b-9bcf-4236-a145-410afdfd9551)
